@@ -1,0 +1,31 @@
+.links{
+    margin-left: 400px;
+}
+.about{
+    border-bottom: 2px solid rgb(0, 0, 0);
+    width: 200px;
+    margin-left: 830px;
+    margin-top: 80px;
+}
+.introduction{
+    margin-top: 60px;
+    width: 1500px;
+}
+.domains{
+    margin-left: 350px;
+    margin-top: 30px;
+    width: 1500px;
+}
+.council{
+    border-bottom: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    margin-left: 800px;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+.cards{
+    margin-left: 220px;
+}
+.card{
+    margin-left: 100px;
+}
